@@ -120,10 +120,8 @@ hr {
 }
 
 hr.middle-header {
-       
-    margin-right: -32px;
+    position: absolute;
     margin-left: -32px; 
-    width: 105%;
 }
 
 .header-bottom{
